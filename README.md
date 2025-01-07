@@ -86,13 +86,6 @@ This project is an interactive data analytics dashboard built to visualize and a
    - **Rank Prediction**: Predict university ranks using linear regression.
 3. Download processed data and insights as needed.
 
-## Applications
-
-- Academic and industry researchers exploring university performance.
-- Students and parents evaluating universities for higher education.
-- Policymakers and education consultants studying regional trends.
-
-
 ## Credits
 
 Developed by **Fawad Mughal**, leveraging Python's powerful data science ecosystem and interactive tools like Streamlit and Plotly.
@@ -102,7 +95,3 @@ Developed by **Fawad Mughal**, leveraging Python's powerful data science ecosyst
 - **[LinkedIn](https://www.linkedin.com/in/fawad-mughal/)**  
 - **[GitHub](https://github.com/fawadmughal-ds/)**  
 - Email: help.fawadmughal@gmail.com
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
