@@ -92,12 +92,6 @@ This project is an interactive data analytics dashboard built to visualize and a
 - Students and parents evaluating universities for higher education.
 - Policymakers and education consultants studying regional trends.
 
-## Future Enhancements
-
-- Add support for global university rankings.
-- Integrate AI/ML models for more accurate rank prediction.
-- Provide export functionality for analysis results.
-- Implement real-time data scraping for up-to-date insights.
 
 ## Credits
 
@@ -107,7 +101,7 @@ Developed by **Fawad Mughal**, leveraging Python's powerful data science ecosyst
 
 - **[LinkedIn](https://www.linkedin.com/in/fawad-mughal/)**  
 - **[GitHub](https://github.com/fawadmughal-ds/)**  
-- Email: help.fawadmughal.com
+- Email: help.fawadmughal@gmail.com
 
 ## License
 
